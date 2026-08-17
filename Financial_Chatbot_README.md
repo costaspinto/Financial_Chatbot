@@ -39,6 +39,7 @@ This project demonstrates how a structured financial dataset can be exposed thro
 - [License](#license)
 
 ---
+<img width="917" height="687" alt="image" src="https://github.com/user-attachments/assets/9b7cd600-d90f-41f8-9c04-4e788d8751c4" />
 
 ## Overview
 
